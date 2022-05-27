@@ -4,9 +4,17 @@ Firstly you will install python
 Usage:
 
 Open cmd
+
+
 pip3 install pymem
+
+
 py visual.py
+
+
 Set glow colors according to your request
+
+
 
 Done !
 
